@@ -1,4 +1,4 @@
-# Bytecamp
+# Soil Analysis and Vendor Recommendation System
 
 Farmers in India often usually face challenges in getting fair prices for their produces. 
 One of the major reason for this is the middlemen or intermediates who often exploit the farmers by offering low prices for their crops and selling them  for higher prices in the market.
